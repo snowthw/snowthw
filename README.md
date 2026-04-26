@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I'm Snow. I'm a Master student at Shibaura Institute of Technology.<br>
+I am currently doing research on cultural intelligence while learning language and trying to develop a 2D lauguage learning game.<br>
+📫 You can reach me via thethninnwai.snow@gmail.com
 <!--
 **snowthw/snowthw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
